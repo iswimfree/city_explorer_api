@@ -33,11 +33,11 @@ During the day, check off tasks as you complete them, and move the story cards t
 
 
 
-Number and name of feature: ________________________________
+Number and name of feature: step one setting up server
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 2pm
 
 Finish time: _____
 
